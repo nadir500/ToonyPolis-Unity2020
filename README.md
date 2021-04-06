@@ -8,4 +8,4 @@
  - Fix the shadows jaggies after lightmapping static toon unlit objects (you can fix the issue by tuning the lightmap settings), needs more test on different shapes.
  - Add additional lights for more lighting choices.
 # Image 
- https://github.com/nadir500/ToonyPolis/blob/main/Capture.PNG 
+ ![first test](https://github.com/nadir500/ToonyPolis/blob/main/Capture.PNG) 
